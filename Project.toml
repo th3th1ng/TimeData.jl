@@ -1,0 +1,5 @@
+name = "Registrator"
+authors = ["Test"]
+version = "0.1"
+
+[deps]
